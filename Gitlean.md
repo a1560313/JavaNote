@@ -1,12 +1,12 @@
-# Git °²×°Ê¹ÓÃ
+ï»¿# Git å®‰è£…ä½¿ç”¨
 
-## ÏÂÔØ
+## ä¸‹è½½
 
-1. windows£º[https://git-scm.com/download/win](https://git-scm.com/download/win)
+1. windowsï¼š[https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 2. centos: `yum install git`
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
 1. 
 	ssh-keygen -t rsa -C "a1560313"
@@ -19,7 +19,10 @@
 	git clone git@github.com:a1560313/Demo.git
 5. 
 	cd ~/project/Demo
+
 	git add .
+
 	git commit -m "init add"
+
 	git push origin master
 
